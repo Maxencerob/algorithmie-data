@@ -11,17 +11,21 @@ Ici : les consignes, les exercices &amp; les corrigés
     * pensez à finaliser l'[installation](/installation.md) de votre environnement de dev si ce n'est pas déjà fait :bangbang:
     * n'hésitez pas à vous entraider !
 
+## TP
+
+Les énoncés des TPs sont disponibles dans le dossier `tp/`
+
 ## TD
 
 ### Algorithmie simple
 
-   * [Enoncé](/Algorithmie%20de%20la%20data%20-%20TD1%20-%20Algorithmie%20simple.pdf)
-   * [Correction](/Algorithmie%20de%20la%20data%20-%20TD1%20-%20Algorithmie%20simple%20-%20CORRECTION.pdf)
+   * [Enoncé](td/Algorithmie%20de%20la%20data%20-%20TD1%20-%20Algorithmie%20simple.pdf)
+   * [Correction](td/Algorithmie%20de%20la%20data%20-%20TD1%20-%20Algorithmie%20simple%20-%20CORRECTION.pdf)
 
 ### Tableaux
 
-   * [Enoncé](/Algorithmie%20de%20la%20data%20-%20TD2%20-%20Tableaux.pdf)
-   * [Correction](/Algorithmie%20de%20la%20data%20-%20TD2%20-%20Tableaux%20-%20CORRECTION.pdf)
+   * [Enoncé](td/Algorithmie%20de%20la%20data%20-%20TD2%20-%20Tableaux.pdf)
+   * [Correction](td/Algorithmie%20de%20la%20data%20-%20TD2%20-%20Tableaux%20-%20CORRECTION.pdf)
 
 
 N.B. La correction des exercices "Bonus" sera donnée plus tard, nous en ferons une partie en cours (en Python).
