@@ -14,7 +14,7 @@
 ### Initialisation du projet
 
 1. Créer son "repo" personnel:
-    https://classroom.github.com/a/Qm6IR-jh
+    https://classroom.github.com/a/oRTRGTTl
 
 2. Cloner le repo en local en utilisant PyCharm:
 
