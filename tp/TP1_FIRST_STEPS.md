@@ -78,7 +78,7 @@ Pour chaque exercice :
 
 > Pour la syntaxe, on pourra s'aider des exemples présents dans le dossier `tp1/examples/`
 
-La correction: [Correction](td/Algorithmie%20de%20la%20data%20-%20TD1%20-%20Algorithmie%20simple%20-%20CORRECTION.pdf)
+La correction: [Correction](https://github.com/datalyo-dc-m1/algorithmie-data/blob/master/td/Algorithmie%20de%20la%20data%20-%20TD1%20-%20Algorithmie%20simple%20-%20CORRECTION.pdf)
 
 ### Tableau à 1 dimension
 
@@ -86,7 +86,7 @@ Reprendre la correction des **exercices 1 à 4 du TD2** "Tableaux" et implément
    
 > Pour la syntaxe, on pourra s'aider des exemples présents dans le fichier `tp1/examples/listes.py`
 
-La correction: [Correction](td/Algorithmie%20de%20la%20data%20-%20TD2%20-%20Tableaux%20-%20CORRECTION.pdf)
+La correction: [Correction](https://github.com/datalyo-dc-m1/algorithmie-data/blob/master/td/Algorithmie%20de%20la%20data%20-%20TD2%20-%20Tableaux%20-%20CORRECTION.pdf)
 
 
 ### Bonus
