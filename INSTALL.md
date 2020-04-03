@@ -9,7 +9,7 @@ Ne pas hésiter à abuser de Google. Quelques liens utiles :
 1. Télécharger de Python *3.7.x* sur le site officiel : https://www.python.org/downloads/ 
 
 2. Lancer l'installateur et cocher l'option "add Python 3.7 to PATH":
-![alt text](/python_install_win.png "Python for Windows")
+![alt text](/attachments/python_install_win.png "Python for Windows")
 
 3. Vérifier l'installation :
 

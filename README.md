@@ -6,10 +6,14 @@ Ici : les consignes, les exercices &amp; les corrigés
 * **10 mars**: cours 1 :white_check_mark:
 * **14 mars**:
     * ajout des corrections des TDs effectués au cours 1 :white_check_mark:
-    * ajout d'indications supplémentaires pour l'[installation](/installation.md) :white_check_mark:
+    * ajout d'indications supplémentaires pour l'[installation](/INSTALL.md) :white_check_mark:
 * **03 avril**: on se retrouve pour le cours 2
-    * pensez à finaliser l'[installation](/installation.md) de votre environnement de dev si ce n'est pas déjà fait :bangbang:
+    * pensez à finaliser l'[installation](/INSTALL.md) de votre environnement de dev si ce n'est pas déjà fait :bangbang:
     * n'hésitez pas à vous entraider !
+
+## CM
+
+Un résumé du cours est disponible ici: [SUMMARY](/SUMMARY.md)
 
 ## TP
 
