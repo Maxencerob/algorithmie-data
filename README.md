@@ -10,7 +10,9 @@ Ici : les consignes, les exercices &amp; les corrigés
 * **03 avril**: on se retrouve pour le cours 2
     * pensez à finaliser l'[installation](/INSTALL.md) de votre environnement de dev si ce n'est pas déjà fait :bangbang:
     * n'hésitez pas à vous entraider !
-
+* **07 avril**:
+    * ajout de la correction du premier TP :white_check_mark:
+    
 ## CM
 
 Un résumé du cours est disponible ici: [SUMMARY](/SUMMARY.md)
@@ -18,6 +20,8 @@ Un résumé du cours est disponible ici: [SUMMARY](/SUMMARY.md)
 ## TP
 
 Les énoncés des TPs sont disponibles dans le dossier `tp/`
+
+* Correction du TP1 ici: [TP1 Correction](tp/TP1_FIRST_STEPS_CORRECTION.md)
 
 ## TD
 
