@@ -9,16 +9,16 @@
 
 > Pour la syntaxe, on pourra s'aider des exemples présents dans le dossier `tp3/examples/`
 
-## Tuples
+## Listes
 
-Dans le dossier `tp3/`, créer un fichier `tuples.py`
+Dans le dossier `tp3/`, créer un fichier `listes.py`
 
-### Les bases
+### Exercice 1
 
 On considère le programme suivant:
 
 ```python
-t = (1, 2, 3, 4, 5)
+t = [1, 2, 3, 4, 5]
 a = t[0] + t[3]
 b = t[-1]
 c = t[3:]
@@ -39,39 +39,13 @@ a = a + t[-2]
 
 7. Exécuter l'instruction `t[-30]`. Conclusion?
 
-7. Créer un tuple `abc` qui contient 5 les premiers lettres de l'alphabet (de A à E)
+7. Créer une liste `abc` qui contient 5 les premiers lettres de l'alphabet (de A à E)
 
 8. Afficher la lettre `D` contenue dans `abc`
 
 9. Afficher les trois dernières lettres de `abc`
 
-### Manipulation de tuples
-
-On considère les tuples suivants:
-
-```
-t1 = (1, 2, 3, 4)
-t2 = (4, 5, 6)
-t3 = (2, 4, 6)
-```
-
-1. A l'aide de l'opérateur `+`, créer une variable `t4` qui contient la concaténation les tuples `t1` et `t3`
-
-2. Afficher le nombre de `4` contenus dans `t4`
-
-3. Créer la variable `t2_4 = (t2, t4)`. Quel est son type?
-
-4. Afficher la 4ème valeur du deuxième tuple de `t2_4`
-
-### Sauvegarde des modifications
-
-Pousser un commit nommé `Tuples` qui contient le fichier `tuples.py` 
-
-## Listes
-
-Dans le dossier `tp3/`, créer un fichier `listes.py`
-
-### Les bases
+### Exercice 2
 
 On considère le programme suivant:
 
