@@ -84,7 +84,6 @@ De base, Python ne propose pas de fonction pour tirer un nombre aléatoire. On v
 3. Vérifier que la valeur de `user_propal` est comprise entre 0 et 10. Si non: 
 
    * Afficher un message d'erreur à l'utilisateur
-   * Arrêter l'exécution du programme à l'aide de l'instruction `break`
 
 **Vérifier la valeur du nombre saisi:**
 
@@ -102,6 +101,9 @@ Implémenter une première version du jeu de la manière suivante:
 2. Demander un nombre à l'utilisateur
 
 3. Vérifier la valeur du nombre:
+
+    * Si le nombre n'est pas compris entre 1 et 10 :
+       * On affiche un message d'erreur et on arrête le programme.
     
     * Si le nombre est égal:
         
