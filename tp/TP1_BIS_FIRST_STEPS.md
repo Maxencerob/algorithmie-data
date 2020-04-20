@@ -73,15 +73,15 @@ De base, Python ne propose pas de fonction pour tirer un nombre aléatoire. On v
     
 2. Pour savoir comment utiliser cette fonction, afficher l'aide en exécutant l'instruction `help(randint)` 
     
-3. Créer une variable `number_to_guess` qui contient un nombre aléatoire compris entre 0 et 10.
+3. Créer une variable `number_to_guess` qui contient un nombre aléatoire compris entre 1 et 10.
 
 **Demander un nombre à l'utilisateur:**
 
-1. Demander à l'utilisateur de saisir un nombre entre 0 et 10
+1. Demander à l'utilisateur de saisir un nombre entre 1 et 10
 
 2. Stocker le résultat dans une variable de type entier nommée `user_propal`
 
-3. Vérifier que la valeur de `user_propal` est comprise entre 0 et 10. Si non: 
+3. Vérifier que la valeur de `user_propal` est comprise entre 1 et 10. Si non: 
 
    * Afficher un message d'erreur à l'utilisateur
 
